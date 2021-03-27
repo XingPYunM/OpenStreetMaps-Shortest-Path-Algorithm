@@ -12,6 +12,8 @@ In this project, students are provided OpenStreetMap data about UIC's campus and
    - Modified to be able to handle loops
  - Implementing a graph data structure
    -  Designed a generic graph data structure
+ - Importance of commenting code
+   - Had to get a lot of teacher's assistant help. I commented my code in much greater detail so that they could get up to speed faster.
 
 
 ## Files To Look At
