@@ -14,8 +14,8 @@ In this project, students are provided OpenStreetMap data about UIC's campus and
    -  Designed a generic graph data structure
 
 
-## Files Written
-Helper files were provided, but the bulk of the project was in these two files.
+## Files To Look At
+Helper and driver files were provided, however, the builk of actual the project is written in these two files.
 
 - graph.h
   - Generic graph that takes any two types to use for a vertex and a weight
