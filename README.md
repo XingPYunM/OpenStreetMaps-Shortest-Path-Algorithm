@@ -1,5 +1,5 @@
 ## Open Street Maps - Shortest Path Algorithm
-UIC Data Structures Course Project
+Data Structures Course Project
 
 ## About This Project
  Dijkstra's algorithm can be used to find the shortest path between two points on a graph.
